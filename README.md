@@ -8,8 +8,8 @@ The distance, d between VDD(yellow) and VSS(blue) is 15.
 
 Before quadratic placement:
 <center><img src="pic/randomplacement.png"></center>
-<center>Picture reference: [3]</center><br />
+<center>Picture reference: [1]</center><br />
 
 After quadratic placement:
 <center><img src="pic/quadraticplacement.png"></center>
-<center>Picture reference: [3]</center><br />
+<center>Picture reference: [2]</center><br />
